@@ -128,4 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-20210819/
+2021*/
+*.csv

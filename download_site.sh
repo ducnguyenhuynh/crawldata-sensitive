@@ -11,6 +11,7 @@ commonLink=""
 
 mkdir -p ${work_dir}/${day}
 
+echo -e "URL\tTITLE\tTAG\tIMAGES\tVIDEO" > database.csv
 # function downloadListElementsPage {
 #     loop=0
 #     category=$1
@@ -48,7 +49,10 @@ function downloadListElementsPage {
             echo "Download page $link_element successfully."
         fi
 
+        # put information to csv file
+        awk -f put_html_to_csv.awk ${work_dir}/${day}/${category}/elements/${id}.html >> database.csv
     done < extract.tab
+    rm extract.tab
 }
 
 function downloadListModePage {

@@ -1,0 +1,137 @@
+Craw from http://freejav.video/
+page URL, image, description, and tag of the video
+
+Conditions:
+title in freejav.video must be available in one of below URL:
+https://hiwaijosi.net/
+http://atashi.blogterest.net/
+http://1st.clublucifer.net/
+https://guidecoman.com/
+https://zinguide.com/
+http://big-boobs.blogterest.net/
+
+
+
+-------------------------------- TRANSLATED REQUIREMENT BY GOOGLE --------------------------------
+The contents of the automatic blog WP are as follows.
+
+Get information from the following sites.
+http://freejav.video/
+
+
+1. Get information from freejav.video
+Get the page URL, image, description, and tag of the video at http://freejav.video/
+
+
+2. From the blog below, read "Overseas Free TUBE Video URL" and the above content (1).
+Match.
+
+https://hiwaijosi.net/
+http://atashi.blogterest.net/
+http://1st.clublucifer.net/
+https://guidecoman.com/
+https://zinguide.com/
+http://big-boobs.blogterest.net/
+
+3. http://freejav.video/
+Get the page URL, image, description, and tag of the video at http://freejav.video/
+Furthermore, an article with the same content "Overseas free TUBE video URL" is automatically generated.
+
+
+Example 1: How to match by DMM package title
+
+https://hiwaijosi.net/archives/148456
+
+DMM package title in the video details at the top center
+"Lingerie rejuvenated slut esthetics that gently irritates with polite lewd words I will not return until I ejaculate Kana Momonogi"
+There is a link to the following overseas video in the thumbnail at the top.
+https://www.youjizz.com/videos/5mpvbod-67599592.html
+
+A search at http://freejav.video/ will match.
+
+http://freejav.video/?s=%E4%B8%81%E5%AF%A7%E6%B7%AB%E8%AA%9E%E3%81%A7%E5%84%AA%E3% 81% 97% E3% 81% 8F% E7% 84% A6% E3% 82% 89% E3% 81% 99% E3% 83% A9% E3% 83% B3% E3% 82% B8% E3% 82% A7% E3% 83% AA% E3% 83% BC% E5% 9B% 9E% E6% 98% A5% E7% 97% B4% E5% A5% B3% E3% 82% A8% E3% 82% B9% E3% 83% 86% 20% E5% B0% 84% E7% B2% BE% E3% 81% 99% E3% 82% 8B% E3% 81% BE% E3% 81% A7% E5% B8% B0% E3% 81% 95% E3% 81% AA% E3% 81% 84% 20% E6% A1% 83% E4% B9% 83% E6% 9C% A8% E3% 81% 8B% E3% 81% AA
+
+
+
+Example 2
+
+http://hitojuku.blogterest.net/page/1227/
+
+Video title at the top center
+"Mom friend picking up! After giving birth, I feel like I'm less than my husband, but I have negotiated with a young wife who is still in the prime of what I want to do 4 hours SP"
+
+Overseas video sharing site URL
+https://jp.spankbang.com/3mmuh/video/rhe+425
+
+It matches the information below.
+http://freejav.video/?s=%E3%83%9E%E3%83%9E%E5%8F%8B%E3%83%8A%E3%83%B3%E3%83%91%EF% BC% 81% E5% 87% BA% E7% 94% A3% E5% BE% 8C% E6% 97% A6% E9% 82% A3% E3% 81% A8% E3% 81% AF% E3% 83% AC% E3% 82% B9% E6% B0% 97% E5% 91% B3% E3% 81% A0% E3% 81% 91% E3% 81% A9% E3% 81% BE% E3% 81% A0% E3% 81% BE% E3% 81% A0% E3% 82% 84% E3% 82% 8A% E3% 81% 9F% E3% 81% 84% E7% 9B% 9B% E3% 82% 8A% E3% 81% AE% E8% 8B% A5% E5% A5% A5% E3% 81% 95% E3% 82% 93% E3% 81% AB% E3% 82% AC% E3% 83% 81% E4% BA% A4% E6% B8% 89% E3% 81% 97% E3% 81% A1% E3% 82% 83% E3% 81% 84% E3% 81% BE% E3% 81% 97% E3% 81% 9F% 204% E6% 99% 82% E9% 96% 93SP
+
+
+Example 3
+
+http://hitojuku.blogterest.net/page/1228/
+
+Even if you display the source of the above page and search for the character strings "Introduction of work" and "Click here for the complete video!", There is no data on the source.
+
+
+-------------------------------- ORIGIN REQUIREMENT --------------------------------
+自動ブログWPの内容は以下になります。
+
+以下のサイトより情報を取得します。
+http://freejav.video/
+
+
+1. freejav.videoより情報を取得
+http://freejav.video/の動画のページURLと画像、説明文、タグを取得
+
+
+2. 下記のブログから「海外無料TUBEの動画URL」と上記の内容（１）を
+マッチングさせる。
+
+https://hiwaijosi.net/
+http://atashi.blogterest.net/
+http://1st.clublucifer.net/
+https://guidecoman.com/
+https://zinguide.com/
+http://big-boobs.blogterest.net/
+
+3. http://freejav.video/と
+http://freejav.video/の動画のページURLと画像、説明文、タグを取得
+更に内容が同じ「海外無料TUBEの動画URL」が掲載された記事を自動生成
+
+
+例１：DMMパッケージタイトルでマッチングさせる方法
+
+https://hiwaijosi.net/archives/148456
+
+中央上部の動画詳細にDMMのパッケージのタイトル
+「丁寧淫語で優しく焦らすランジェリー回春痴女エステ 射精するまで帰さない 桃乃木かな」
+があり上部のサムネに下記の海外動画のリンクがあります。
+https://www.youjizz.com/videos/5mpvbod-67599592.html
+
+http://freejav.video/で検索すると一致します。
+
+http://freejav.video/?s=%E4%B8%81%E5%AF%A7%E6%B7%AB%E8%AA%9E%E3%81%A7%E5%84%AA%E3%81%97%E3%81%8F%E7%84%A6%E3%82%89%E3%81%99%E3%83%A9%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%BC%E5%9B%9E%E6%98%A5%E7%97%B4%E5%A5%B3%E3%82%A8%E3%82%B9%E3%83%86%20%E5%B0%84%E7%B2%BE%E3%81%99%E3%82%8B%E3%81%BE%E3%81%A7%E5%B8%B0%E3%81%95%E3%81%AA%E3%81%84%20%E6%A1%83%E4%B9%83%E6%9C%A8%E3%81%8B%E3%81%AA
+
+
+
+例２
+
+http://hitojuku.blogterest.net/page/1227/
+
+中央上部の動画タイトル
+「ママ友ナンパ！出産後旦那とはレス気味だけどまだまだやりたい盛りの若奥さんにガチ交渉しちゃいました4時間SP」
+
+海外動画シェアサイトURL
+https://jp.spankbang.com/3mmuh/video/rhe+425
+
+下記の情報と一致します。
+http://freejav.video/?s=%E3%83%9E%E3%83%9E%E5%8F%8B%E3%83%8A%E3%83%B3%E3%83%91%EF%BC%81%E5%87%BA%E7%94%A3%E5%BE%8C%E6%97%A6%E9%82%A3%E3%81%A8%E3%81%AF%E3%83%AC%E3%82%B9%E6%B0%97%E5%91%B3%E3%81%A0%E3%81%91%E3%81%A9%E3%81%BE%E3%81%A0%E3%81%BE%E3%81%A0%E3%82%84%E3%82%8A%E3%81%9F%E3%81%84%E7%9B%9B%E3%82%8A%E3%81%AE%E8%8B%A5%E5%A5%A5%E3%81%95%E3%82%93%E3%81%AB%E3%82%AC%E3%83%81%E4%BA%A4%E6%B8%89%E3%81%97%E3%81%A1%E3%82%83%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%204%E6%99%82%E9%96%93SP
+
+
+例３
+
+http://hitojuku.blogterest.net/page/1228/
+
+上記ページのソースを表示し「作品紹介」「完全動画はこちら！」の文字列を検索してもソース上にはデータが有りません。
+
